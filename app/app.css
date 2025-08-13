@@ -41,7 +41,7 @@ input {
   @apply w-full p-4 inset-shadow rounded-2xl focus:outline-none bg-white;
 }
 
-textarea {
+/* textarea {
   @apply w-full p-4 inset-shadow rounded-2xl focus:outline-none bg-white;
 }
 
@@ -149,4 +149,5 @@ form {
   to {
     opacity: 1;
   }
-}
+} 
+
