@@ -165,6 +165,9 @@ if (!uploadedImage) {
                         </form>
                     )}
                 </div>
+                <span className="text-xl">
+          Made with love ❤️ by Minal
+        </span>
             </section>
         </main>
     );
